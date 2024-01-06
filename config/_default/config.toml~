@@ -14,6 +14,3 @@ hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
 disqusShortname = "hugo-theme-stack"
-
-# We're skipping GitHub Actions and uploading straight to /docs/
-publishDir = "docs"
